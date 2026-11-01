@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "usr_001",
+      "name": "Thula Student",
+      "username": "thula",
+      "password": "Power123"
+    },
+    {
+      "id": "usr_002",
+      "name": "Lindiwe Dube",
+      "username": "lindiwed",
+      "password": "SecurePass1"
+    },
+    {
+      "id": "usr_003",
+      "name": "Sipho Test",
+      "username": "siphon",
+      "password": "12344"
+    }
+  ]
+}
