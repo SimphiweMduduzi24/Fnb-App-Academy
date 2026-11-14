@@ -1,0 +1,90 @@
+[
+    {
+        "id": "evt-001",
+        "title": "Sunset Jazz Sessions",
+        "category": "Music",
+        "location": "Zoo Lake, Johannesburg",
+        "date": "Sat, 15 Aug 2026",
+        "time": "17:00 - 20:00",
+        "summary": "Live jazz trio, open lawn seating.",
+        "description": "An open-air evening of live jazz featuring the Braamfontein Collective trio. Bring a blanket or low chair, pack a picnic, and enjoy the sunset over the lake. Food and drink vendors will be on site.",
+        "saved": false
+    },
+    {
+        "id": "evt-002",
+        "title": "Amapiano Block Party",
+        "category": "Music",
+        "location": "Newtown Cultural Precinct",
+        "date": "Sat, 22 Aug 2026",
+        "time": "19:00 - 23:00",
+        "summary": "DJ line-up and street food stalls.",
+        "description": "A street-level party celebrating local amapiano DJs, with three back-to-back sets on an outdoor sound stage. Street food stalls and a cash bar will be open all evening.",
+        "saved": false
+    },
+    {
+        "id": "evt-003",
+        "title": "Neighbourgoods Market",
+        "category": "Markets",
+        "location": "44 Stanley Ave, Milpark",
+        "date": "Sun, 16 Aug 2026",
+        "time": "09:00 - 15:00",
+        "summary": "60+ artisan food and craft stalls.",
+        "description": "A weekly favourite with more than 60 stalls selling artisan food, baked goods, coffee and handmade crafts. Live acoustic music in the courtyard and plenty of seating for the whole family.",
+        "saved": false
+    },
+    {
+        "id": "evt-004",
+        "title": "Rosebank Sunday Market",
+        "category": "Markets",
+        "location": "Rosebank Mall Rooftop",
+        "date": "Sun, 30 Aug 2026",
+        "time": "09:00 - 16:00",
+        "summary": "Rooftop market with crafts and vintage finds.",
+        "description": "A long-running rooftop market with stalls selling crafts, clothing, vintage finds, plants and fresh produce. Kids' activities and a food court corner make it a good outing for the whole family.",
+        "saved": false
+    },
+    {
+        "id": "evt-005",
+        "title": "Joburg City Fun Run",
+        "category": "Sports",
+        "location": "Zoo Lake Park",
+        "date": "Sun, 23 Aug 2026",
+        "time": "07:00 - 09:30",
+        "summary": "5km and 10km timed community run.",
+        "description": "A community fun run with 5km and 10km routes looping around the park, suitable for walkers, joggers and serious runners alike. Timing chips, water points and finisher medals are included in the entry.",
+        "saved": false
+    },
+    {
+        "id": "evt-006",
+        "title": "Community Soccer Tournament",
+        "category": "Sports",
+        "location": "Alexandra Recreation Centre",
+        "date": "Sat, 29 Aug 2026",
+        "time": "10:00 - 16:00",
+        "summary": "5-a-side knockout tournament, all welcome.",
+        "description": "A 5-a-side knockout tournament open to teams from across the neighbourhood. Spectators are welcome, with refreshments on sale and prizes for the top three teams.",
+        "saved": false
+    },
+    {
+        "id": "evt-007",
+        "title": "Neighbourhood Clean-Up Day",
+        "category": "Community",
+        "location": "Melville Koppies",
+        "date": "Sat, 15 Aug 2026",
+        "time": "08:00 - 11:00",
+        "summary": "Volunteer litter clean-up, gloves provided.",
+        "description": "Join neighbours and local volunteers for a morning clean-up of the Melville Koppies nature reserve and surrounding streets. Gloves, bags and refreshments are provided. Wear closed shoes and bring a water bottle.",
+        "saved": false
+    },
+    {
+        "id": "evt-008",
+        "title": "Youth Coding Workshop",
+        "category": "Community",
+        "location": "Braamfontein Public Library",
+        "date": "Thu, 20 Aug 2026",
+        "time": "14:00 - 16:30",
+        "summary": "Free beginner coding session for teens.",
+        "description": "A free, beginner-friendly coding workshop for teens run by local volunteer developers. No experience needed. Laptops are available to borrow, but you are welcome to bring your own.",
+        "saved": false
+    }
+]
